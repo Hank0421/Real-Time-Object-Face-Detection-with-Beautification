@@ -42,12 +42,6 @@ This project is a **real-time computer vision application** that integrates **YO
 
 ### 📷 Screenshots | 截圖
 
-#### 🎥 Real-time Object Detection | 即時物件偵測
-<img src="assets/截圖 2025-08-02 晚上11.47.55.png" width="600">
-
-#### 💄 Face Beautification + Effects | 人臉美化與特效
-<img src="assets/face_brightened.png" width="600">
-
 #### 🖼 Loaded Image Processing | 載入圖片處理
 <img src="assets/processed_pokemon.png" width="600">
 
@@ -71,6 +65,7 @@ pip install -r requirements.txt
 #### 3️⃣ Download YOLOv5 Model | 下載 YOLOv5 模型
 
 Download `yolov5s.pt` and place it in the project directory
+
 下載 `yolov5s.pt` 並放在專案資料夾中
 
 ```bash
@@ -111,6 +106,7 @@ object-face-detector/
 ### 📜 License | 授權
 
 MIT License — You are free to use and modify.
+
 MIT 授權 — 可自由使用與修改。
 
 ---
