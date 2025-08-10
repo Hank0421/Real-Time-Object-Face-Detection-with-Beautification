@@ -40,6 +40,19 @@ This project is a **real-time computer vision application** that integrates **YO
 
 ---
 
+### 📷 Screenshots | 截圖
+
+#### 🎥 Real-time Object Detection | 即時物件偵測
+<img src="assets/截圖 2025-08-02 晚上11.47.55.png" width="600">
+
+#### 💄 Face Beautification + Effects | 人臉美化與特效
+<img src="assets/face_brightened.png" width="600">
+
+#### 🖼 Loaded Image Processing | 載入圖片處理
+<img src="assets/process_pokemon.png" width="600">
+
+---
+
 ### 📦 Installation & Usage | 安裝與使用
 
 #### 1️⃣ Clone Repository | 複製專案
