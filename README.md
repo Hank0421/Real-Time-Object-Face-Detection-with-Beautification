@@ -49,7 +49,7 @@ This project is a **real-time computer vision application** that integrates **YO
 <img src="assets/face_brightened.png" width="600">
 
 #### 🖼 Loaded Image Processing | 載入圖片處理
-<img src="assets/process_pokemon.png" width="600">
+<img src="assets/processed_pokemon.png" width="600">
 
 ---
 
