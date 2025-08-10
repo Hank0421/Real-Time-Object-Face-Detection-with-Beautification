@@ -7,6 +7,7 @@
 ### 📖 Overview | 專案簡介
 
 This project is a **real-time computer vision application** that integrates **YOLOv5 object detection**, **Mediapipe face beautification**, and **OpenCV image processing** into a PyQt5-based GUI.
+
 本專案是一個**即時電腦視覺應用程式**，整合了 **YOLOv5 物件偵測**、**Mediapipe 人臉美化**與 **OpenCV 影像處理**，並使用 **PyQt5** 建立圖形化使用介面。
 
 ---
@@ -104,6 +105,8 @@ MIT 授權 — 可自由使用與修改。
 ### 👤 Author | 作者
 
 Developed by Ching-Han Chang
+
 Email: chinhanchang@gmail.com
+
 GitHub: https://github.com/Hank0421
 
